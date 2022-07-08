@@ -1,0 +1,17 @@
+body {
+    background-color: darkkhaki;
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#welcome_msg {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+    font-weight: bold;
+    color: #945D5E;
+}
